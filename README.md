@@ -50,6 +50,4 @@ python videochat.py
 - Video processing is limited to 720p resolution for optimal performance
 - Processing large videos may take some time depending on your hardware
 
-## License
 
-MIT License 
