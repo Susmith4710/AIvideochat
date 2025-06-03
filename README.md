@@ -19,9 +19,7 @@ This project provides a video analysis tool using the Qwen2-VL model, allowing u
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/video-analysis-qwen.git
-cd video-analysis-qwen
-```
+
 
 2. Install the required packages:
 ```bash
